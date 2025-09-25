@@ -1,0 +1,45 @@
+**DOCUMENTATION SIMPLIFIÉE SUR LE SERVEUR DE SUIVI DE DÉPLACEMENT**
+*Permet de suivre l'avancée du robot en mode autonomie sur le serveur (interne télécom)*
+
+- codes erreurs voir : https://discourse.r2.enst.fr/t/serveur-de-suivi-de-deplacement/421
+- mise à jour de position : curl -X POST 'http://proj103.r2.enst.fr/api/pos?x=XVAL&y=YVAL'
+- capture de drapeau : curl -X POST 'http://proj103.r2.enst.fr/api/marker?id=MID&col=MCOL&row=MROW'. On ne revoie pas les marqueurs repères [1,4] ni le marqueur test des drapeaux (ID=0)
+- méthode pour voir l'état de la course sous forme d'un fichier json : (même chose)/api/status
+- exemple du fichier json : {
+ "status":2,
+ "elapsed":0,
+ "positions":[
+   {"team":1,"x":100,"y":20,"num_markers":1}
+ ],
+ "markers":[
+        {"team": 1, "id": 6, "col": 1, "row": "B", "time": 2000, "valid": true}
+ ]
+}
+- accés à l'état depuis d'autres machines: /api/status?g=N où N est le numéro de groupe.
+- API avancé à compléter plus tard dans le projet
+
+- exemple de code à adapter pour la partie automatique du robot (on remplace localhost par le serveur plus haut): 
+{
+import requests
+import time
+
+#simple example with robot moving along a line at constant speed
+#each time the robot x pos is in the middle of a cell, we post a marker ID found
+#we run for 30 seconds
+rows=['F','E','D','C','B','A']
+
+x=0
+y=-25 #middle of starting line
+marker_id=6
+runs=30
+while runs > 0:
+	x = x + 5
+	y = y + 5
+	runs = runs - 1
+	requests.post('http://localhost:8080/api/pos?x='+str(x)+'&y='+str(y))
+	if x>0 and x % 50 == 25:
+		col = int(x/50)
+		row = max(0, min(int(y/50), 5))
+		requests.post('http://localhost:8080/api/marker?id='+str(marker_id)+'&col='+str(col)+'&row='+rows[row] )
+		marker_id = marker_id + 1
+	time.sleep(1) }

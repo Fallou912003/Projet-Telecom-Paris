@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contrôle du Robot</title>
+    <style>
+        /* Global styles */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #eef2f3;
+            color: #333;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+        }
+
+        h1 {
+            margin-bottom: 20px;
+            color: #007BFF;
+        }
+
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+            max-width: 1200px;
+        }
+
+        .box {
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+            width: 300px;
+            text-align: center;
+        }
+
+        h2, h3 {
+            margin-bottom: 15px;
+            font-size: 1.5rem;
+            color: #0056b3;
+        }
+
+        button {
+            margin: 10px 0;
+            padding: 12px;
+            width: 100%;
+            background-color: #007BFF;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        form {
+            margin-top: 20px;
+        }
+
+        label {
+            display: block;
+            margin: 10px 0 5px;
+            font-size: 1rem;
+            text-align: left;
+        }
+
+        input {
+            padding: 10px;
+            width: 100%;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+            font-size: 1rem;
+        }
+
+        #camera-display {
+            margin-top: 20px;
+        }
+
+        #camera-feed {
+            max-width: 100%;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Interface de Contrôle du Robot</h1>
+    <div class="container">
+        <!-- Mode Manuel -->
+        <div class="box" id="manuel">
+            <h2>Mode Manuel</h2>
+            <button id="haut">Haut</button>
+            <button id="bas">Bas</button>
+            <button id="gauche">Gauche</button>
+            <button id="droite">Droite</button>
+            <button id="tour">Tour complet</button>
+        </div>
+
+        <!-- Mode Automatique -->
+        <div class="box" id="automatique">
+            <h2>Mode Automatique</h2>
+            <form id="form-coordinates">
+                <label for="x">Coordonnée X :</label>
+                <input type="number" id="x" name="x" required>
+                <label for="y">Coordonnée Y :</label>
+                <input type="number" id="y" name="y" required>
+                <button type="submit">Envoyer</button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Affichage Caméra -->
+    <div class="box" id="camera-display">
+        <h3>Affichage Caméra</h3>
+        <video id="camera-feed" autoplay muted></video>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            // Mode Manuel
+            const haut = document.getElementById('haut');
+            const bas = document.getElementById('bas');
+            const gauche = document.getElementById('gauche');
+            const droite = document.getElementById('droite');
+            const tour = document.getElementById('tour');
+
+            haut.addEventListener('click', () => console.log('Déplacement vers le haut'));
+            bas.addEventListener('click', () => console.log('Déplacement vers le bas'));
+            gauche.addEventListener('click', () => console.log('Déplacement vers la gauche'));
+            droite.addEventListener('click', () => console.log('Déplacement vers la droite'));
+            tour.addEventListener('click', () => console.log('Faire un tour'));
+
+            // Mode Automatique
+            const formCoordinates = document.getElementById('form-coordinates');
+            formCoordinates.addEventListener('submit', (event) => {
+                event.preventDefault();
+                const x = document.getElementById('x').value;
+                const y = document.getElementById('y').value;
+                console.log(`Coordonnées envoyées : X=${x}, Y=${y}`);
+            });
+        });
+    </script>
+</body>
+</html>
