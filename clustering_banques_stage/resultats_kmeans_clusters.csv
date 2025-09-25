@@ -1,0 +1,1001 @@
+client_id,montant_moyen,dernière_transaction,nb_transactions_mois,dernière_transaction_jour,cluster,cluster_name
+1,10000,11/08/2025,12,17,5,"Petits mais actifs (faible montant, très actifs)"
+2,20000,12/08/2025,8,16,3,Faible montant / faible activité / intermédiaire
+3,30000,13/08/2025,21,15,5,"Petits mais actifs (faible montant, très actifs)"
+4,40000,14/08/2025,2,14,3,Faible montant / faible activité / intermédiaire
+5,50000,15/08/2025,15,13,3,Faible montant / faible activité / intermédiaire
+6,60000,16/08/2025,17,12,4,"Fidèles réguliers (activité élevée, montant moyen)"
+7,70000,17/08/2025,9,11,3,Faible montant / faible activité / intermédiaire
+8,80000,18/08/2025,11,10,3,Faible montant / faible activité / intermédiaire
+9,90000,19/08/2025,14,9,3,Faible montant / faible activité / intermédiaire
+10,100000,20/08/2025,18,8,4,"Fidèles réguliers (activité élevée, montant moyen)"
+11,568106,03/08/2025,17,25,0,Élevé montant / élevé activité / ancien
+12,531983,06/08/2025,4,22,1,Moyen montant / faible activité / ancien
+13,926593,13/08/2025,2,15,2,Élevé montant / moyen activité / récent
+14,936931,08/08/2025,11,20,0,Élevé montant / élevé activité / ancien
+15,481935,06/08/2025,9,22,1,Moyen montant / faible activité / ancien
+16,261830,21/08/2025,1,7,3,Faible montant / faible activité / intermédiaire
+17,976144,01/08/2025,20,27,0,Élevé montant / élevé activité / ancien
+18,532320,24/08/2025,14,4,4,"Fidèles réguliers (activité élevée, montant moyen)"
+19,540509,03/08/2025,2,25,1,Moyen montant / faible activité / ancien
+20,81826,15/08/2025,12,13,3,Faible montant / faible activité / intermédiaire
+21,311976,03/08/2025,18,25,5,"Petits mais actifs (faible montant, très actifs)"
+22,296018,11/08/2025,13,17,5,"Petits mais actifs (faible montant, très actifs)"
+23,562100,13/08/2025,21,15,4,"Fidèles réguliers (activité élevée, montant moyen)"
+24,750614,09/08/2025,7,19,1,Moyen montant / faible activité / ancien
+25,349793,02/08/2025,11,26,5,"Petits mais actifs (faible montant, très actifs)"
+26,609111,09/08/2025,12,19,1,Moyen montant / faible activité / ancien
+27,555298,10/08/2025,10,18,1,Moyen montant / faible activité / ancien
+28,394145,22/08/2025,16,6,4,"Fidèles réguliers (activité élevée, montant moyen)"
+29,80316,06/08/2025,21,22,5,"Petits mais actifs (faible montant, très actifs)"
+30,291023,12/08/2025,19,16,5,"Petits mais actifs (faible montant, très actifs)"
+31,874230,04/08/2025,17,24,0,Élevé montant / élevé activité / ancien
+32,779580,03/08/2025,4,25,1,Moyen montant / faible activité / ancien
+33,81519,25/08/2025,23,3,4,"Fidèles réguliers (activité élevée, montant moyen)"
+34,421928,17/08/2025,8,11,3,Faible montant / faible activité / intermédiaire
+35,285946,17/08/2025,19,11,4,"Fidèles réguliers (activité élevée, montant moyen)"
+36,765700,16/08/2025,13,12,2,Élevé montant / moyen activité / récent
+37,975364,06/08/2025,3,22,1,Moyen montant / faible activité / ancien
+38,720211,05/08/2025,15,23,0,Élevé montant / élevé activité / ancien
+39,407069,01/08/2025,17,27,5,"Petits mais actifs (faible montant, très actifs)"
+40,506168,03/08/2025,3,25,1,Moyen montant / faible activité / ancien
+41,974647,02/08/2025,20,26,0,Élevé montant / élevé activité / ancien
+42,929414,25/08/2025,11,3,2,Élevé montant / moyen activité / récent
+43,975593,25/08/2025,13,3,2,Élevé montant / moyen activité / récent
+44,441979,14/08/2025,11,14,3,Faible montant / faible activité / intermédiaire
+45,797388,12/08/2025,14,16,0,Élevé montant / élevé activité / ancien
+46,223975,17/08/2025,13,11,3,Faible montant / faible activité / intermédiaire
+47,498759,06/08/2025,3,22,1,Moyen montant / faible activité / ancien
+48,848054,05/08/2025,11,23,0,Élevé montant / élevé activité / ancien
+49,512342,10/08/2025,17,18,5,"Petits mais actifs (faible montant, très actifs)"
+50,95705,18/08/2025,20,10,4,"Fidèles réguliers (activité élevée, montant moyen)"
+51,711227,14/08/2025,9,14,2,Élevé montant / moyen activité / récent
+52,262474,08/08/2025,25,20,5,"Petits mais actifs (faible montant, très actifs)"
+53,668519,04/08/2025,9,24,1,Moyen montant / faible activité / ancien
+54,636248,11/08/2025,0,17,1,Moyen montant / faible activité / ancien
+55,225147,08/08/2025,12,20,5,"Petits mais actifs (faible montant, très actifs)"
+56,810924,11/08/2025,10,17,1,Moyen montant / faible activité / ancien
+57,689677,11/08/2025,17,17,0,Élevé montant / élevé activité / ancien
+58,877835,07/08/2025,10,21,1,Moyen montant / faible activité / ancien
+59,316036,07/08/2025,25,21,5,"Petits mais actifs (faible montant, très actifs)"
+60,829487,11/08/2025,16,17,0,Élevé montant / élevé activité / ancien
+61,753086,09/08/2025,23,19,0,Élevé montant / élevé activité / ancien
+62,453098,05/08/2025,18,23,5,"Petits mais actifs (faible montant, très actifs)"
+63,198215,11/08/2025,22,17,5,"Petits mais actifs (faible montant, très actifs)"
+64,474370,12/08/2025,21,16,4,"Fidèles réguliers (activité élevée, montant moyen)"
+65,647172,08/08/2025,9,20,1,Moyen montant / faible activité / ancien
+66,332430,25/08/2025,24,3,4,"Fidèles réguliers (activité élevée, montant moyen)"
+67,494644,21/08/2025,9,7,2,Élevé montant / moyen activité / récent
+68,525846,22/08/2025,22,6,4,"Fidèles réguliers (activité élevée, montant moyen)"
+69,683036,02/08/2025,18,26,0,Élevé montant / élevé activité / ancien
+70,454302,22/08/2025,3,6,3,Faible montant / faible activité / intermédiaire
+71,573497,19/08/2025,13,9,2,Élevé montant / moyen activité / récent
+72,144813,12/08/2025,12,16,5,"Petits mais actifs (faible montant, très actifs)"
+73,968944,03/08/2025,18,25,0,Élevé montant / élevé activité / ancien
+74,472327,13/08/2025,25,15,4,"Fidèles réguliers (activité élevée, montant moyen)"
+75,830273,08/08/2025,18,20,0,Élevé montant / élevé activité / ancien
+76,936345,06/08/2025,0,22,1,Moyen montant / faible activité / ancien
+77,483681,13/08/2025,12,15,3,Faible montant / faible activité / intermédiaire
+78,894239,10/08/2025,21,18,0,Élevé montant / élevé activité / ancien
+79,295602,25/08/2025,12,3,4,"Fidèles réguliers (activité élevée, montant moyen)"
+80,288004,01/08/2025,10,27,5,"Petits mais actifs (faible montant, très actifs)"
+81,168837,24/08/2025,12,4,3,Faible montant / faible activité / intermédiaire
+82,366203,13/08/2025,12,15,3,Faible montant / faible activité / intermédiaire
+83,299043,21/08/2025,17,7,4,"Fidèles réguliers (activité élevée, montant moyen)"
+84,160241,20/08/2025,19,8,4,"Fidèles réguliers (activité élevée, montant moyen)"
+85,697722,15/08/2025,3,13,2,Élevé montant / moyen activité / récent
+86,957288,01/08/2025,3,27,1,Moyen montant / faible activité / ancien
+87,807179,09/08/2025,10,19,1,Moyen montant / faible activité / ancien
+88,300678,08/08/2025,3,20,1,Moyen montant / faible activité / ancien
+89,667809,20/08/2025,9,8,2,Élevé montant / moyen activité / récent
+90,534649,12/08/2025,7,16,1,Moyen montant / faible activité / ancien
+91,485483,13/08/2025,12,15,3,Faible montant / faible activité / intermédiaire
+92,860939,25/08/2025,8,3,2,Élevé montant / moyen activité / récent
+93,728530,03/08/2025,24,25,0,Élevé montant / élevé activité / ancien
+94,356614,12/08/2025,17,16,5,"Petits mais actifs (faible montant, très actifs)"
+95,796343,20/08/2025,2,8,2,Élevé montant / moyen activité / récent
+96,391447,20/08/2025,18,8,4,"Fidèles réguliers (activité élevée, montant moyen)"
+97,728190,05/08/2025,25,23,0,Élevé montant / élevé activité / ancien
+98,887408,02/08/2025,9,26,1,Moyen montant / faible activité / ancien
+99,212662,11/08/2025,7,17,3,Faible montant / faible activité / intermédiaire
+100,586557,06/08/2025,3,22,1,Moyen montant / faible activité / ancien
+101,565133,06/08/2025,8,22,1,Moyen montant / faible activité / ancien
+102,477501,01/08/2025,13,27,5,"Petits mais actifs (faible montant, très actifs)"
+103,258480,08/08/2025,0,20,1,Moyen montant / faible activité / ancien
+104,603351,01/08/2025,14,27,0,Élevé montant / élevé activité / ancien
+105,382084,20/08/2025,10,8,3,Faible montant / faible activité / intermédiaire
+106,98519,11/08/2025,4,17,3,Faible montant / faible activité / intermédiaire
+107,532892,17/08/2025,3,11,3,Faible montant / faible activité / intermédiaire
+108,643306,03/08/2025,21,25,0,Élevé montant / élevé activité / ancien
+109,304146,24/08/2025,13,4,4,"Fidèles réguliers (activité élevée, montant moyen)"
+110,684078,21/08/2025,12,7,2,Élevé montant / moyen activité / récent
+111,353896,07/08/2025,7,21,1,Moyen montant / faible activité / ancien
+112,382669,04/08/2025,18,24,5,"Petits mais actifs (faible montant, très actifs)"
+113,844094,22/08/2025,3,6,2,Élevé montant / moyen activité / récent
+114,265712,22/08/2025,13,6,4,"Fidèles réguliers (activité élevée, montant moyen)"
+115,806653,22/08/2025,25,6,4,"Fidèles réguliers (activité élevée, montant moyen)"
+116,180277,12/08/2025,21,16,5,"Petits mais actifs (faible montant, très actifs)"
+117,146254,25/08/2025,17,3,4,"Fidèles réguliers (activité élevée, montant moyen)"
+118,580113,05/08/2025,19,23,0,Élevé montant / élevé activité / ancien
+119,843221,24/08/2025,13,4,2,Élevé montant / moyen activité / récent
+120,650976,09/08/2025,5,19,1,Moyen montant / faible activité / ancien
+121,764715,16/08/2025,2,12,2,Élevé montant / moyen activité / récent
+122,553683,08/08/2025,7,20,1,Moyen montant / faible activité / ancien
+123,933935,25/08/2025,18,3,2,Élevé montant / moyen activité / récent
+124,150862,03/08/2025,16,25,5,"Petits mais actifs (faible montant, très actifs)"
+125,977184,06/08/2025,17,22,0,Élevé montant / élevé activité / ancien
+126,600065,20/08/2025,17,8,4,"Fidèles réguliers (activité élevée, montant moyen)"
+127,975397,06/08/2025,20,22,0,Élevé montant / élevé activité / ancien
+128,275148,25/08/2025,11,3,3,Faible montant / faible activité / intermédiaire
+129,225696,02/08/2025,3,26,1,Moyen montant / faible activité / ancien
+130,788956,07/08/2025,10,21,1,Moyen montant / faible activité / ancien
+131,63425,20/08/2025,0,8,3,Faible montant / faible activité / intermédiaire
+132,742118,13/08/2025,9,15,2,Élevé montant / moyen activité / récent
+133,259278,19/08/2025,13,9,3,Faible montant / faible activité / intermédiaire
+134,752458,14/08/2025,7,14,2,Élevé montant / moyen activité / récent
+135,389849,11/08/2025,7,17,3,Faible montant / faible activité / intermédiaire
+136,489769,23/08/2025,6,5,2,Élevé montant / moyen activité / récent
+137,744104,04/08/2025,22,24,0,Élevé montant / élevé activité / ancien
+138,294299,06/08/2025,18,22,5,"Petits mais actifs (faible montant, très actifs)"
+139,575367,20/08/2025,7,8,2,Élevé montant / moyen activité / récent
+140,550995,15/08/2025,5,13,2,Élevé montant / moyen activité / récent
+141,996435,19/08/2025,15,9,2,Élevé montant / moyen activité / récent
+142,481945,15/08/2025,14,13,4,"Fidèles réguliers (activité élevée, montant moyen)"
+143,583556,14/08/2025,3,14,1,Moyen montant / faible activité / ancien
+144,760228,22/08/2025,15,6,2,Élevé montant / moyen activité / récent
+145,423800,02/08/2025,18,26,5,"Petits mais actifs (faible montant, très actifs)"
+146,791199,07/08/2025,0,21,1,Moyen montant / faible activité / ancien
+147,303666,02/08/2025,23,26,5,"Petits mais actifs (faible montant, très actifs)"
+148,667507,02/08/2025,11,26,1,Moyen montant / faible activité / ancien
+149,714648,01/08/2025,10,27,1,Moyen montant / faible activité / ancien
+150,489691,08/08/2025,5,20,1,Moyen montant / faible activité / ancien
+151,193761,16/08/2025,5,12,3,Faible montant / faible activité / intermédiaire
+152,486356,07/08/2025,8,21,1,Moyen montant / faible activité / ancien
+153,150687,15/08/2025,8,13,3,Faible montant / faible activité / intermédiaire
+154,259515,02/08/2025,8,26,5,"Petits mais actifs (faible montant, très actifs)"
+155,158290,01/08/2025,5,27,5,"Petits mais actifs (faible montant, très actifs)"
+156,726351,07/08/2025,12,21,0,Élevé montant / élevé activité / ancien
+157,767052,18/08/2025,25,10,4,"Fidèles réguliers (activité élevée, montant moyen)"
+158,494707,02/08/2025,1,26,1,Moyen montant / faible activité / ancien
+159,909603,14/08/2025,16,14,0,Élevé montant / élevé activité / ancien
+160,915108,21/08/2025,7,7,2,Élevé montant / moyen activité / récent
+161,285780,05/08/2025,21,23,5,"Petits mais actifs (faible montant, très actifs)"
+162,696646,16/08/2025,11,12,2,Élevé montant / moyen activité / récent
+163,751958,11/08/2025,24,17,0,Élevé montant / élevé activité / ancien
+164,678635,08/08/2025,3,20,1,Moyen montant / faible activité / ancien
+165,69044,15/08/2025,3,13,3,Faible montant / faible activité / intermédiaire
+166,552798,18/08/2025,19,10,4,"Fidèles réguliers (activité élevée, montant moyen)"
+167,837273,24/08/2025,16,4,2,Élevé montant / moyen activité / récent
+168,739001,10/08/2025,16,18,0,Élevé montant / élevé activité / ancien
+169,172421,04/08/2025,3,24,1,Moyen montant / faible activité / ancien
+170,38943,06/08/2025,4,22,3,Faible montant / faible activité / intermédiaire
+171,493575,18/08/2025,10,10,2,Élevé montant / moyen activité / récent
+172,791730,12/08/2025,0,16,1,Moyen montant / faible activité / ancien
+173,611394,24/08/2025,11,4,2,Élevé montant / moyen activité / récent
+174,462471,23/08/2025,16,5,4,"Fidèles réguliers (activité élevée, montant moyen)"
+175,524419,09/08/2025,0,19,1,Moyen montant / faible activité / ancien
+176,36849,23/08/2025,21,5,4,"Fidèles réguliers (activité élevée, montant moyen)"
+177,137492,25/08/2025,18,3,4,"Fidèles réguliers (activité élevée, montant moyen)"
+178,290175,14/08/2025,0,14,3,Faible montant / faible activité / intermédiaire
+179,502816,01/08/2025,6,27,1,Moyen montant / faible activité / ancien
+180,292822,07/08/2025,9,21,5,"Petits mais actifs (faible montant, très actifs)"
+181,285408,06/08/2025,21,22,5,"Petits mais actifs (faible montant, très actifs)"
+182,844272,08/08/2025,12,20,0,Élevé montant / élevé activité / ancien
+183,168489,09/08/2025,6,19,3,Faible montant / faible activité / intermédiaire
+184,760893,08/08/2025,5,20,1,Moyen montant / faible activité / ancien
+185,313763,05/08/2025,12,23,5,"Petits mais actifs (faible montant, très actifs)"
+186,463056,17/08/2025,19,11,4,"Fidèles réguliers (activité élevée, montant moyen)"
+187,19674,03/08/2025,16,25,5,"Petits mais actifs (faible montant, très actifs)"
+188,291731,03/08/2025,12,25,5,"Petits mais actifs (faible montant, très actifs)"
+189,843633,21/08/2025,9,7,2,Élevé montant / moyen activité / récent
+190,554658,07/08/2025,0,21,1,Moyen montant / faible activité / ancien
+191,145281,20/08/2025,5,8,3,Faible montant / faible activité / intermédiaire
+192,514175,12/08/2025,1,16,1,Moyen montant / faible activité / ancien
+193,520659,07/08/2025,7,21,1,Moyen montant / faible activité / ancien
+194,212822,25/08/2025,20,3,4,"Fidèles réguliers (activité élevée, montant moyen)"
+195,342848,24/08/2025,22,4,4,"Fidèles réguliers (activité élevée, montant moyen)"
+196,641664,07/08/2025,0,21,1,Moyen montant / faible activité / ancien
+197,360878,21/08/2025,5,7,3,Faible montant / faible activité / intermédiaire
+198,906454,22/08/2025,17,6,2,Élevé montant / moyen activité / récent
+199,936464,12/08/2025,0,16,1,Moyen montant / faible activité / ancien
+200,11005,07/08/2025,1,21,3,Faible montant / faible activité / intermédiaire
+201,429120,24/08/2025,23,4,4,"Fidèles réguliers (activité élevée, montant moyen)"
+202,440391,20/08/2025,18,8,4,"Fidèles réguliers (activité élevée, montant moyen)"
+203,396335,06/08/2025,4,22,1,Moyen montant / faible activité / ancien
+204,812868,17/08/2025,18,11,0,Élevé montant / élevé activité / ancien
+205,75378,12/08/2025,5,16,3,Faible montant / faible activité / intermédiaire
+206,769296,07/08/2025,7,21,1,Moyen montant / faible activité / ancien
+207,110468,13/08/2025,14,15,5,"Petits mais actifs (faible montant, très actifs)"
+208,803949,03/08/2025,23,25,0,Élevé montant / élevé activité / ancien
+209,548944,18/08/2025,25,10,4,"Fidèles réguliers (activité élevée, montant moyen)"
+210,188171,25/08/2025,0,3,3,Faible montant / faible activité / intermédiaire
+211,725024,16/08/2025,15,12,2,Élevé montant / moyen activité / récent
+212,828651,01/08/2025,2,27,1,Moyen montant / faible activité / ancien
+213,46076,18/08/2025,7,10,3,Faible montant / faible activité / intermédiaire
+214,444297,14/08/2025,8,14,3,Faible montant / faible activité / intermédiaire
+215,680054,01/08/2025,25,27,0,Élevé montant / élevé activité / ancien
+216,389092,18/08/2025,24,10,4,"Fidèles réguliers (activité élevée, montant moyen)"
+217,174310,07/08/2025,2,21,3,Faible montant / faible activité / intermédiaire
+218,729091,10/08/2025,25,18,0,Élevé montant / élevé activité / ancien
+219,348759,04/08/2025,23,24,5,"Petits mais actifs (faible montant, très actifs)"
+220,947039,03/08/2025,22,25,0,Élevé montant / élevé activité / ancien
+221,83010,16/08/2025,23,12,4,"Fidèles réguliers (activité élevée, montant moyen)"
+222,318933,02/08/2025,11,26,5,"Petits mais actifs (faible montant, très actifs)"
+223,974602,13/08/2025,9,15,2,Élevé montant / moyen activité / récent
+224,570357,06/08/2025,7,22,1,Moyen montant / faible activité / ancien
+225,404338,19/08/2025,20,9,4,"Fidèles réguliers (activité élevée, montant moyen)"
+226,987613,06/08/2025,12,22,0,Élevé montant / élevé activité / ancien
+227,923942,03/08/2025,17,25,0,Élevé montant / élevé activité / ancien
+228,812660,10/08/2025,16,18,0,Élevé montant / élevé activité / ancien
+229,260785,21/08/2025,24,7,4,"Fidèles réguliers (activité élevée, montant moyen)"
+230,148956,23/08/2025,5,5,3,Faible montant / faible activité / intermédiaire
+231,966642,11/08/2025,21,17,0,Élevé montant / élevé activité / ancien
+232,384525,15/08/2025,0,13,3,Faible montant / faible activité / intermédiaire
+233,765944,03/08/2025,11,25,1,Moyen montant / faible activité / ancien
+234,707565,15/08/2025,9,13,2,Élevé montant / moyen activité / récent
+235,354345,18/08/2025,18,10,4,"Fidèles réguliers (activité élevée, montant moyen)"
+236,501582,13/08/2025,23,15,4,"Fidèles réguliers (activité élevée, montant moyen)"
+237,32014,08/08/2025,18,20,5,"Petits mais actifs (faible montant, très actifs)"
+238,144740,24/08/2025,8,4,3,Faible montant / faible activité / intermédiaire
+239,215826,15/08/2025,16,13,4,"Fidèles réguliers (activité élevée, montant moyen)"
+240,541438,02/08/2025,19,26,0,Élevé montant / élevé activité / ancien
+241,858558,18/08/2025,10,10,2,Élevé montant / moyen activité / récent
+242,239414,05/08/2025,12,23,5,"Petits mais actifs (faible montant, très actifs)"
+243,958918,13/08/2025,18,15,0,Élevé montant / élevé activité / ancien
+244,24981,24/08/2025,7,4,3,Faible montant / faible activité / intermédiaire
+245,866671,19/08/2025,11,9,2,Élevé montant / moyen activité / récent
+246,130725,03/08/2025,17,25,5,"Petits mais actifs (faible montant, très actifs)"
+247,379764,13/08/2025,18,15,4,"Fidèles réguliers (activité élevée, montant moyen)"
+248,462197,04/08/2025,24,24,5,"Petits mais actifs (faible montant, très actifs)"
+249,717861,17/08/2025,10,11,2,Élevé montant / moyen activité / récent
+250,716178,16/08/2025,18,12,0,Élevé montant / élevé activité / ancien
+251,604010,21/08/2025,16,7,4,"Fidèles réguliers (activité élevée, montant moyen)"
+252,669236,10/08/2025,3,18,1,Moyen montant / faible activité / ancien
+253,977676,17/08/2025,23,11,0,Élevé montant / élevé activité / ancien
+254,716050,06/08/2025,12,22,0,Élevé montant / élevé activité / ancien
+255,373724,25/08/2025,1,3,3,Faible montant / faible activité / intermédiaire
+256,916600,13/08/2025,7,15,2,Élevé montant / moyen activité / récent
+257,285752,14/08/2025,24,14,4,"Fidèles réguliers (activité élevée, montant moyen)"
+258,734772,17/08/2025,20,11,4,"Fidèles réguliers (activité élevée, montant moyen)"
+259,748691,24/08/2025,9,4,2,Élevé montant / moyen activité / récent
+260,689594,03/08/2025,10,25,1,Moyen montant / faible activité / ancien
+261,956206,20/08/2025,4,8,2,Élevé montant / moyen activité / récent
+262,126828,20/08/2025,6,8,3,Faible montant / faible activité / intermédiaire
+263,699325,23/08/2025,14,5,2,Élevé montant / moyen activité / récent
+264,235285,18/08/2025,4,10,3,Faible montant / faible activité / intermédiaire
+265,816950,21/08/2025,1,7,2,Élevé montant / moyen activité / récent
+266,984029,12/08/2025,4,16,2,Élevé montant / moyen activité / récent
+267,251263,24/08/2025,24,4,4,"Fidèles réguliers (activité élevée, montant moyen)"
+268,803146,08/08/2025,13,20,0,Élevé montant / élevé activité / ancien
+269,64921,08/08/2025,7,20,3,Faible montant / faible activité / intermédiaire
+270,913804,06/08/2025,18,22,0,Élevé montant / élevé activité / ancien
+271,358284,02/08/2025,10,26,5,"Petits mais actifs (faible montant, très actifs)"
+272,842907,06/08/2025,25,22,0,Élevé montant / élevé activité / ancien
+273,467028,18/08/2025,22,10,4,"Fidèles réguliers (activité élevée, montant moyen)"
+274,505877,15/08/2025,8,13,3,Faible montant / faible activité / intermédiaire
+275,415434,06/08/2025,8,22,1,Moyen montant / faible activité / ancien
+276,49692,24/08/2025,23,4,4,"Fidèles réguliers (activité élevée, montant moyen)"
+277,542297,09/08/2025,15,19,0,Élevé montant / élevé activité / ancien
+278,276773,13/08/2025,22,15,4,"Fidèles réguliers (activité élevée, montant moyen)"
+279,244089,03/08/2025,12,25,5,"Petits mais actifs (faible montant, très actifs)"
+280,79198,01/08/2025,18,27,5,"Petits mais actifs (faible montant, très actifs)"
+281,985808,20/08/2025,2,8,2,Élevé montant / moyen activité / récent
+282,743462,17/08/2025,6,11,2,Élevé montant / moyen activité / récent
+283,996644,15/08/2025,4,13,2,Élevé montant / moyen activité / récent
+284,332590,20/08/2025,12,8,3,Faible montant / faible activité / intermédiaire
+285,396006,03/08/2025,7,25,1,Moyen montant / faible activité / ancien
+286,16181,11/08/2025,18,17,5,"Petits mais actifs (faible montant, très actifs)"
+287,756507,22/08/2025,2,6,2,Élevé montant / moyen activité / récent
+288,651118,05/08/2025,10,23,1,Moyen montant / faible activité / ancien
+289,528079,04/08/2025,15,24,5,"Petits mais actifs (faible montant, très actifs)"
+290,307601,01/08/2025,0,27,1,Moyen montant / faible activité / ancien
+291,427693,13/08/2025,12,15,3,Faible montant / faible activité / intermédiaire
+292,658309,21/08/2025,5,7,2,Élevé montant / moyen activité / récent
+293,249058,10/08/2025,20,18,5,"Petits mais actifs (faible montant, très actifs)"
+294,567632,24/08/2025,17,4,4,"Fidèles réguliers (activité élevée, montant moyen)"
+295,973629,25/08/2025,12,3,2,Élevé montant / moyen activité / récent
+296,337788,04/08/2025,24,24,5,"Petits mais actifs (faible montant, très actifs)"
+297,677895,13/08/2025,16,15,0,Élevé montant / élevé activité / ancien
+298,957745,17/08/2025,1,11,2,Élevé montant / moyen activité / récent
+299,668649,15/08/2025,10,13,2,Élevé montant / moyen activité / récent
+300,252464,16/08/2025,7,12,3,Faible montant / faible activité / intermédiaire
+301,757604,11/08/2025,6,17,1,Moyen montant / faible activité / ancien
+302,20016,01/08/2025,19,27,5,"Petits mais actifs (faible montant, très actifs)"
+303,244857,16/08/2025,5,12,3,Faible montant / faible activité / intermédiaire
+304,989667,13/08/2025,14,15,0,Élevé montant / élevé activité / ancien
+305,570118,22/08/2025,10,6,2,Élevé montant / moyen activité / récent
+306,531879,08/08/2025,18,20,0,Élevé montant / élevé activité / ancien
+307,616484,18/08/2025,25,10,4,"Fidèles réguliers (activité élevée, montant moyen)"
+308,57963,03/08/2025,15,25,5,"Petits mais actifs (faible montant, très actifs)"
+309,780655,12/08/2025,23,16,0,Élevé montant / élevé activité / ancien
+310,302021,25/08/2025,11,3,3,Faible montant / faible activité / intermédiaire
+311,224596,18/08/2025,4,10,3,Faible montant / faible activité / intermédiaire
+312,96767,24/08/2025,23,4,4,"Fidèles réguliers (activité élevée, montant moyen)"
+313,342164,15/08/2025,17,13,4,"Fidèles réguliers (activité élevée, montant moyen)"
+314,418066,24/08/2025,18,4,4,"Fidèles réguliers (activité élevée, montant moyen)"
+315,62193,10/08/2025,17,18,5,"Petits mais actifs (faible montant, très actifs)"
+316,807719,08/08/2025,24,20,0,Élevé montant / élevé activité / ancien
+317,824379,14/08/2025,20,14,0,Élevé montant / élevé activité / ancien
+318,436065,06/08/2025,11,22,5,"Petits mais actifs (faible montant, très actifs)"
+319,708101,03/08/2025,10,25,1,Moyen montant / faible activité / ancien
+320,537928,12/08/2025,20,16,0,Élevé montant / élevé activité / ancien
+321,498385,01/08/2025,19,27,5,"Petits mais actifs (faible montant, très actifs)"
+322,860643,05/08/2025,7,23,1,Moyen montant / faible activité / ancien
+323,58195,18/08/2025,10,10,3,Faible montant / faible activité / intermédiaire
+324,481388,07/08/2025,23,21,5,"Petits mais actifs (faible montant, très actifs)"
+325,888799,12/08/2025,0,16,1,Moyen montant / faible activité / ancien
+326,453433,18/08/2025,16,10,4,"Fidèles réguliers (activité élevée, montant moyen)"
+327,862066,13/08/2025,9,15,2,Élevé montant / moyen activité / récent
+328,622301,14/08/2025,18,14,0,Élevé montant / élevé activité / ancien
+329,744985,20/08/2025,1,8,2,Élevé montant / moyen activité / récent
+330,586211,09/08/2025,17,19,0,Élevé montant / élevé activité / ancien
+331,108519,04/08/2025,13,24,5,"Petits mais actifs (faible montant, très actifs)"
+332,178231,15/08/2025,24,13,4,"Fidèles réguliers (activité élevée, montant moyen)"
+333,554059,06/08/2025,1,22,1,Moyen montant / faible activité / ancien
+334,915965,02/08/2025,8,26,1,Moyen montant / faible activité / ancien
+335,951918,07/08/2025,25,21,0,Élevé montant / élevé activité / ancien
+336,546841,05/08/2025,21,23,0,Élevé montant / élevé activité / ancien
+337,392583,22/08/2025,19,6,4,"Fidèles réguliers (activité élevée, montant moyen)"
+338,378275,20/08/2025,6,8,3,Faible montant / faible activité / intermédiaire
+339,716686,20/08/2025,2,8,2,Élevé montant / moyen activité / récent
+340,716990,24/08/2025,24,4,4,"Fidèles réguliers (activité élevée, montant moyen)"
+341,779018,07/08/2025,1,21,1,Moyen montant / faible activité / ancien
+342,497765,10/08/2025,19,18,5,"Petits mais actifs (faible montant, très actifs)"
+343,13918,25/08/2025,22,3,4,"Fidèles réguliers (activité élevée, montant moyen)"
+344,80166,05/08/2025,9,23,5,"Petits mais actifs (faible montant, très actifs)"
+345,458084,09/08/2025,3,19,1,Moyen montant / faible activité / ancien
+346,222142,03/08/2025,25,25,5,"Petits mais actifs (faible montant, très actifs)"
+347,693885,05/08/2025,8,23,1,Moyen montant / faible activité / ancien
+348,783896,19/08/2025,16,9,2,Élevé montant / moyen activité / récent
+349,457196,24/08/2025,6,4,3,Faible montant / faible activité / intermédiaire
+350,753374,17/08/2025,7,11,2,Élevé montant / moyen activité / récent
+351,161133,02/08/2025,4,26,1,Moyen montant / faible activité / ancien
+352,500708,24/08/2025,23,4,4,"Fidèles réguliers (activité élevée, montant moyen)"
+353,689446,20/08/2025,16,8,2,Élevé montant / moyen activité / récent
+354,501425,14/08/2025,2,14,3,Faible montant / faible activité / intermédiaire
+355,992196,16/08/2025,23,12,0,Élevé montant / élevé activité / ancien
+356,47508,23/08/2025,11,5,3,Faible montant / faible activité / intermédiaire
+357,239803,03/08/2025,8,25,5,"Petits mais actifs (faible montant, très actifs)"
+358,516771,06/08/2025,3,22,1,Moyen montant / faible activité / ancien
+359,441304,06/08/2025,1,22,1,Moyen montant / faible activité / ancien
+360,426026,01/08/2025,1,27,1,Moyen montant / faible activité / ancien
+361,144783,04/08/2025,6,24,5,"Petits mais actifs (faible montant, très actifs)"
+362,192406,17/08/2025,12,11,3,Faible montant / faible activité / intermédiaire
+363,889787,11/08/2025,2,17,1,Moyen montant / faible activité / ancien
+364,927622,21/08/2025,12,7,2,Élevé montant / moyen activité / récent
+365,408912,04/08/2025,22,24,5,"Petits mais actifs (faible montant, très actifs)"
+366,245117,17/08/2025,18,11,4,"Fidèles réguliers (activité élevée, montant moyen)"
+367,267424,19/08/2025,3,9,3,Faible montant / faible activité / intermédiaire
+368,340075,15/08/2025,22,13,4,"Fidèles réguliers (activité élevée, montant moyen)"
+369,616659,05/08/2025,3,23,1,Moyen montant / faible activité / ancien
+370,657521,01/08/2025,16,27,0,Élevé montant / élevé activité / ancien
+371,214700,24/08/2025,7,4,3,Faible montant / faible activité / intermédiaire
+372,85511,14/08/2025,1,14,3,Faible montant / faible activité / intermédiaire
+373,33435,06/08/2025,10,22,5,"Petits mais actifs (faible montant, très actifs)"
+374,323518,16/08/2025,6,12,3,Faible montant / faible activité / intermédiaire
+375,713330,25/08/2025,14,3,2,Élevé montant / moyen activité / récent
+376,807856,01/08/2025,10,27,1,Moyen montant / faible activité / ancien
+377,918194,06/08/2025,9,22,1,Moyen montant / faible activité / ancien
+378,254143,18/08/2025,17,10,4,"Fidèles réguliers (activité élevée, montant moyen)"
+379,775992,22/08/2025,3,6,2,Élevé montant / moyen activité / récent
+380,675628,16/08/2025,3,12,2,Élevé montant / moyen activité / récent
+381,735708,01/08/2025,17,27,0,Élevé montant / élevé activité / ancien
+382,116749,12/08/2025,0,16,3,Faible montant / faible activité / intermédiaire
+383,512162,21/08/2025,8,7,2,Élevé montant / moyen activité / récent
+384,606329,20/08/2025,10,8,2,Élevé montant / moyen activité / récent
+385,296675,14/08/2025,1,14,3,Faible montant / faible activité / intermédiaire
+386,470727,17/08/2025,0,11,3,Faible montant / faible activité / intermédiaire
+387,761143,17/08/2025,10,11,2,Élevé montant / moyen activité / récent
+388,962737,25/08/2025,2,3,2,Élevé montant / moyen activité / récent
+389,512806,25/08/2025,18,3,4,"Fidèles réguliers (activité élevée, montant moyen)"
+390,582687,18/08/2025,14,10,4,"Fidèles réguliers (activité élevée, montant moyen)"
+391,882948,07/08/2025,3,21,1,Moyen montant / faible activité / ancien
+392,519382,08/08/2025,5,20,1,Moyen montant / faible activité / ancien
+393,490127,20/08/2025,9,8,2,Élevé montant / moyen activité / récent
+394,446975,06/08/2025,8,22,1,Moyen montant / faible activité / ancien
+395,273212,18/08/2025,17,10,4,"Fidèles réguliers (activité élevée, montant moyen)"
+396,699633,02/08/2025,22,26,0,Élevé montant / élevé activité / ancien
+397,44766,14/08/2025,4,14,3,Faible montant / faible activité / intermédiaire
+398,101167,06/08/2025,23,22,5,"Petits mais actifs (faible montant, très actifs)"
+399,718514,03/08/2025,8,25,1,Moyen montant / faible activité / ancien
+400,826903,05/08/2025,9,23,1,Moyen montant / faible activité / ancien
+401,489265,07/08/2025,16,21,5,"Petits mais actifs (faible montant, très actifs)"
+402,944673,23/08/2025,18,5,2,Élevé montant / moyen activité / récent
+403,277588,01/08/2025,5,27,1,Moyen montant / faible activité / ancien
+404,158214,19/08/2025,23,9,4,"Fidèles réguliers (activité élevée, montant moyen)"
+405,674427,17/08/2025,3,11,2,Élevé montant / moyen activité / récent
+406,859431,03/08/2025,17,25,0,Élevé montant / élevé activité / ancien
+407,18784,02/08/2025,10,26,5,"Petits mais actifs (faible montant, très actifs)"
+408,186934,20/08/2025,2,8,3,Faible montant / faible activité / intermédiaire
+409,181697,06/08/2025,11,22,5,"Petits mais actifs (faible montant, très actifs)"
+410,548249,12/08/2025,4,16,1,Moyen montant / faible activité / ancien
+411,115299,06/08/2025,22,22,5,"Petits mais actifs (faible montant, très actifs)"
+412,758372,08/08/2025,18,20,0,Élevé montant / élevé activité / ancien
+413,714434,14/08/2025,2,14,2,Élevé montant / moyen activité / récent
+414,915417,07/08/2025,4,21,1,Moyen montant / faible activité / ancien
+415,256172,24/08/2025,9,4,3,Faible montant / faible activité / intermédiaire
+416,860009,10/08/2025,0,18,1,Moyen montant / faible activité / ancien
+417,974608,12/08/2025,16,16,0,Élevé montant / élevé activité / ancien
+418,808880,23/08/2025,7,5,2,Élevé montant / moyen activité / récent
+419,846133,07/08/2025,12,21,0,Élevé montant / élevé activité / ancien
+420,715291,12/08/2025,22,16,0,Élevé montant / élevé activité / ancien
+421,377600,10/08/2025,0,18,1,Moyen montant / faible activité / ancien
+422,240917,01/08/2025,13,27,5,"Petits mais actifs (faible montant, très actifs)"
+423,489372,19/08/2025,2,9,3,Faible montant / faible activité / intermédiaire
+424,239058,08/08/2025,24,20,5,"Petits mais actifs (faible montant, très actifs)"
+425,958545,04/08/2025,25,24,0,Élevé montant / élevé activité / ancien
+426,622195,09/08/2025,9,19,1,Moyen montant / faible activité / ancien
+427,256789,14/08/2025,2,14,3,Faible montant / faible activité / intermédiaire
+428,817898,24/08/2025,16,4,2,Élevé montant / moyen activité / récent
+429,719830,15/08/2025,25,13,0,Élevé montant / élevé activité / ancien
+430,320181,10/08/2025,5,18,3,Faible montant / faible activité / intermédiaire
+431,501503,22/08/2025,24,6,4,"Fidèles réguliers (activité élevée, montant moyen)"
+432,256610,25/08/2025,13,3,4,"Fidèles réguliers (activité élevée, montant moyen)"
+433,425109,16/08/2025,13,12,4,"Fidèles réguliers (activité élevée, montant moyen)"
+434,761131,25/08/2025,10,3,2,Élevé montant / moyen activité / récent
+435,818665,10/08/2025,0,18,1,Moyen montant / faible activité / ancien
+436,122545,17/08/2025,15,11,4,"Fidèles réguliers (activité élevée, montant moyen)"
+437,36397,08/08/2025,10,20,5,"Petits mais actifs (faible montant, très actifs)"
+438,414434,14/08/2025,14,14,4,"Fidèles réguliers (activité élevée, montant moyen)"
+439,713737,20/08/2025,25,8,4,"Fidèles réguliers (activité élevée, montant moyen)"
+440,91106,16/08/2025,3,12,3,Faible montant / faible activité / intermédiaire
+441,697214,24/08/2025,24,4,4,"Fidèles réguliers (activité élevée, montant moyen)"
+442,893013,07/08/2025,21,21,0,Élevé montant / élevé activité / ancien
+443,73025,13/08/2025,7,15,3,Faible montant / faible activité / intermédiaire
+444,194570,05/08/2025,13,23,5,"Petits mais actifs (faible montant, très actifs)"
+445,69146,17/08/2025,8,11,3,Faible montant / faible activité / intermédiaire
+446,450190,17/08/2025,0,11,3,Faible montant / faible activité / intermédiaire
+447,888766,16/08/2025,8,12,2,Élevé montant / moyen activité / récent
+448,936247,11/08/2025,1,17,1,Moyen montant / faible activité / ancien
+449,825860,01/08/2025,17,27,0,Élevé montant / élevé activité / ancien
+450,446631,24/08/2025,18,4,4,"Fidèles réguliers (activité élevée, montant moyen)"
+451,720144,08/08/2025,24,20,0,Élevé montant / élevé activité / ancien
+452,891915,10/08/2025,16,18,0,Élevé montant / élevé activité / ancien
+453,941840,14/08/2025,8,14,2,Élevé montant / moyen activité / récent
+454,612084,15/08/2025,15,13,4,"Fidèles réguliers (activité élevée, montant moyen)"
+455,657738,04/08/2025,14,24,0,Élevé montant / élevé activité / ancien
+456,144554,24/08/2025,16,4,4,"Fidèles réguliers (activité élevée, montant moyen)"
+457,423120,04/08/2025,12,24,5,"Petits mais actifs (faible montant, très actifs)"
+458,880098,06/08/2025,14,22,0,Élevé montant / élevé activité / ancien
+459,105331,19/08/2025,8,9,3,Faible montant / faible activité / intermédiaire
+460,56918,18/08/2025,18,10,4,"Fidèles réguliers (activité élevée, montant moyen)"
+461,388492,17/08/2025,8,11,3,Faible montant / faible activité / intermédiaire
+462,756224,23/08/2025,1,5,2,Élevé montant / moyen activité / récent
+463,460278,03/08/2025,6,25,1,Moyen montant / faible activité / ancien
+464,270380,17/08/2025,16,11,4,"Fidèles réguliers (activité élevée, montant moyen)"
+465,271058,25/08/2025,23,3,4,"Fidèles réguliers (activité élevée, montant moyen)"
+466,667461,12/08/2025,25,16,0,Élevé montant / élevé activité / ancien
+467,420869,17/08/2025,25,11,4,"Fidèles réguliers (activité élevée, montant moyen)"
+468,214257,21/08/2025,1,7,3,Faible montant / faible activité / intermédiaire
+469,12641,13/08/2025,0,15,3,Faible montant / faible activité / intermédiaire
+470,584056,24/08/2025,2,4,2,Élevé montant / moyen activité / récent
+471,369703,15/08/2025,9,13,3,Faible montant / faible activité / intermédiaire
+472,984747,20/08/2025,4,8,2,Élevé montant / moyen activité / récent
+473,348775,23/08/2025,17,5,4,"Fidèles réguliers (activité élevée, montant moyen)"
+474,555557,15/08/2025,25,13,4,"Fidèles réguliers (activité élevée, montant moyen)"
+475,831883,02/08/2025,14,26,0,Élevé montant / élevé activité / ancien
+476,847561,19/08/2025,13,9,2,Élevé montant / moyen activité / récent
+477,186008,21/08/2025,16,7,4,"Fidèles réguliers (activité élevée, montant moyen)"
+478,551056,18/08/2025,21,10,4,"Fidèles réguliers (activité élevée, montant moyen)"
+479,921552,14/08/2025,16,14,0,Élevé montant / élevé activité / ancien
+480,595551,02/08/2025,25,26,0,Élevé montant / élevé activité / ancien
+481,331746,22/08/2025,3,6,3,Faible montant / faible activité / intermédiaire
+482,282231,10/08/2025,17,18,5,"Petits mais actifs (faible montant, très actifs)"
+483,875450,06/08/2025,11,22,0,Élevé montant / élevé activité / ancien
+484,910682,15/08/2025,10,13,2,Élevé montant / moyen activité / récent
+485,450898,23/08/2025,15,5,4,"Fidèles réguliers (activité élevée, montant moyen)"
+486,853273,11/08/2025,16,17,0,Élevé montant / élevé activité / ancien
+487,332774,14/08/2025,4,14,3,Faible montant / faible activité / intermédiaire
+488,470847,22/08/2025,4,6,3,Faible montant / faible activité / intermédiaire
+489,945164,09/08/2025,15,19,0,Élevé montant / élevé activité / ancien
+490,539823,11/08/2025,1,17,1,Moyen montant / faible activité / ancien
+491,785933,19/08/2025,3,9,2,Élevé montant / moyen activité / récent
+492,742363,06/08/2025,0,22,1,Moyen montant / faible activité / ancien
+493,477879,21/08/2025,16,7,4,"Fidèles réguliers (activité élevée, montant moyen)"
+494,57987,04/08/2025,21,24,5,"Petits mais actifs (faible montant, très actifs)"
+495,713895,02/08/2025,0,26,1,Moyen montant / faible activité / ancien
+496,564212,09/08/2025,14,19,0,Élevé montant / élevé activité / ancien
+497,621834,18/08/2025,19,10,4,"Fidèles réguliers (activité élevée, montant moyen)"
+498,948698,22/08/2025,9,6,2,Élevé montant / moyen activité / récent
+499,336844,03/08/2025,14,25,5,"Petits mais actifs (faible montant, très actifs)"
+500,730700,05/08/2025,24,23,0,Élevé montant / élevé activité / ancien
+501,208003,18/08/2025,25,10,4,"Fidèles réguliers (activité élevée, montant moyen)"
+502,911880,10/08/2025,24,18,0,Élevé montant / élevé activité / ancien
+503,793374,16/08/2025,0,12,2,Élevé montant / moyen activité / récent
+504,719117,24/08/2025,8,4,2,Élevé montant / moyen activité / récent
+505,58101,19/08/2025,17,9,4,"Fidèles réguliers (activité élevée, montant moyen)"
+506,305337,17/08/2025,19,11,4,"Fidèles réguliers (activité élevée, montant moyen)"
+507,997118,13/08/2025,12,15,2,Élevé montant / moyen activité / récent
+508,343994,10/08/2025,25,18,5,"Petits mais actifs (faible montant, très actifs)"
+509,13978,23/08/2025,13,5,3,Faible montant / faible activité / intermédiaire
+510,611116,05/08/2025,9,23,1,Moyen montant / faible activité / ancien
+511,83773,10/08/2025,4,18,3,Faible montant / faible activité / intermédiaire
+512,213425,24/08/2025,2,4,3,Faible montant / faible activité / intermédiaire
+513,787958,01/08/2025,12,27,0,Élevé montant / élevé activité / ancien
+514,860336,15/08/2025,11,13,2,Élevé montant / moyen activité / récent
+515,168154,06/08/2025,5,22,5,"Petits mais actifs (faible montant, très actifs)"
+516,693789,04/08/2025,17,24,0,Élevé montant / élevé activité / ancien
+517,314530,11/08/2025,16,17,5,"Petits mais actifs (faible montant, très actifs)"
+518,937896,09/08/2025,22,19,0,Élevé montant / élevé activité / ancien
+519,983868,08/08/2025,25,20,0,Élevé montant / élevé activité / ancien
+520,444612,08/08/2025,21,20,5,"Petits mais actifs (faible montant, très actifs)"
+521,176732,03/08/2025,20,25,5,"Petits mais actifs (faible montant, très actifs)"
+522,745183,15/08/2025,7,13,2,Élevé montant / moyen activité / récent
+523,493749,13/08/2025,11,15,3,Faible montant / faible activité / intermédiaire
+524,593252,18/08/2025,20,10,4,"Fidèles réguliers (activité élevée, montant moyen)"
+525,935027,14/08/2025,7,14,2,Élevé montant / moyen activité / récent
+526,530846,07/08/2025,24,21,0,Élevé montant / élevé activité / ancien
+527,765098,07/08/2025,25,21,0,Élevé montant / élevé activité / ancien
+528,685744,14/08/2025,5,14,2,Élevé montant / moyen activité / récent
+529,710095,19/08/2025,3,9,2,Élevé montant / moyen activité / récent
+530,676917,11/08/2025,7,17,1,Moyen montant / faible activité / ancien
+531,774813,01/08/2025,8,27,1,Moyen montant / faible activité / ancien
+532,332794,24/08/2025,18,4,4,"Fidèles réguliers (activité élevée, montant moyen)"
+533,323513,04/08/2025,5,24,1,Moyen montant / faible activité / ancien
+534,354137,21/08/2025,17,7,4,"Fidèles réguliers (activité élevée, montant moyen)"
+535,837709,01/08/2025,10,27,1,Moyen montant / faible activité / ancien
+536,273254,19/08/2025,12,9,3,Faible montant / faible activité / intermédiaire
+537,120978,24/08/2025,10,4,3,Faible montant / faible activité / intermédiaire
+538,337784,21/08/2025,24,7,4,"Fidèles réguliers (activité élevée, montant moyen)"
+539,914501,15/08/2025,23,13,0,Élevé montant / élevé activité / ancien
+540,729536,22/08/2025,25,6,4,"Fidèles réguliers (activité élevée, montant moyen)"
+541,625437,15/08/2025,17,13,4,"Fidèles réguliers (activité élevée, montant moyen)"
+542,877378,14/08/2025,3,14,2,Élevé montant / moyen activité / récent
+543,104340,18/08/2025,14,10,3,Faible montant / faible activité / intermédiaire
+544,32365,14/08/2025,20,14,5,"Petits mais actifs (faible montant, très actifs)"
+545,333586,20/08/2025,9,8,3,Faible montant / faible activité / intermédiaire
+546,918178,16/08/2025,20,12,0,Élevé montant / élevé activité / ancien
+547,220786,10/08/2025,20,18,5,"Petits mais actifs (faible montant, très actifs)"
+548,960936,24/08/2025,1,4,2,Élevé montant / moyen activité / récent
+549,25548,11/08/2025,18,17,5,"Petits mais actifs (faible montant, très actifs)"
+550,60512,10/08/2025,5,18,3,Faible montant / faible activité / intermédiaire
+551,452040,19/08/2025,4,9,3,Faible montant / faible activité / intermédiaire
+552,312117,06/08/2025,17,22,5,"Petits mais actifs (faible montant, très actifs)"
+553,887518,08/08/2025,16,20,0,Élevé montant / élevé activité / ancien
+554,241348,02/08/2025,14,26,5,"Petits mais actifs (faible montant, très actifs)"
+555,850643,14/08/2025,3,14,2,Élevé montant / moyen activité / récent
+556,699009,04/08/2025,16,24,0,Élevé montant / élevé activité / ancien
+557,870324,02/08/2025,2,26,1,Moyen montant / faible activité / ancien
+558,74787,07/08/2025,0,21,3,Faible montant / faible activité / intermédiaire
+559,716454,14/08/2025,0,14,1,Moyen montant / faible activité / ancien
+560,290751,25/08/2025,4,3,3,Faible montant / faible activité / intermédiaire
+561,914119,23/08/2025,7,5,2,Élevé montant / moyen activité / récent
+562,647098,25/08/2025,24,3,4,"Fidèles réguliers (activité élevée, montant moyen)"
+563,944276,17/08/2025,19,11,0,Élevé montant / élevé activité / ancien
+564,418511,10/08/2025,14,18,5,"Petits mais actifs (faible montant, très actifs)"
+565,752234,06/08/2025,5,22,1,Moyen montant / faible activité / ancien
+566,203400,21/08/2025,12,7,3,Faible montant / faible activité / intermédiaire
+567,785464,15/08/2025,23,13,0,Élevé montant / élevé activité / ancien
+568,360566,01/08/2025,0,27,1,Moyen montant / faible activité / ancien
+569,711908,05/08/2025,18,23,0,Élevé montant / élevé activité / ancien
+570,907135,19/08/2025,0,9,2,Élevé montant / moyen activité / récent
+571,188682,01/08/2025,13,27,5,"Petits mais actifs (faible montant, très actifs)"
+572,487367,10/08/2025,9,18,1,Moyen montant / faible activité / ancien
+573,430673,11/08/2025,0,17,1,Moyen montant / faible activité / ancien
+574,89371,05/08/2025,15,23,5,"Petits mais actifs (faible montant, très actifs)"
+575,751118,25/08/2025,19,3,4,"Fidèles réguliers (activité élevée, montant moyen)"
+576,697763,08/08/2025,9,20,1,Moyen montant / faible activité / ancien
+577,469769,23/08/2025,13,5,4,"Fidèles réguliers (activité élevée, montant moyen)"
+578,979961,23/08/2025,2,5,2,Élevé montant / moyen activité / récent
+579,411709,25/08/2025,3,3,3,Faible montant / faible activité / intermédiaire
+580,798021,12/08/2025,10,16,2,Élevé montant / moyen activité / récent
+581,44158,10/08/2025,5,18,3,Faible montant / faible activité / intermédiaire
+582,403543,07/08/2025,10,21,5,"Petits mais actifs (faible montant, très actifs)"
+583,450775,24/08/2025,8,4,3,Faible montant / faible activité / intermédiaire
+584,581162,18/08/2025,15,10,4,"Fidèles réguliers (activité élevée, montant moyen)"
+585,771590,02/08/2025,14,26,0,Élevé montant / élevé activité / ancien
+586,508855,09/08/2025,13,19,5,"Petits mais actifs (faible montant, très actifs)"
+587,390885,14/08/2025,6,14,3,Faible montant / faible activité / intermédiaire
+588,646711,13/08/2025,10,15,2,Élevé montant / moyen activité / récent
+589,350326,02/08/2025,5,26,1,Moyen montant / faible activité / ancien
+590,821719,06/08/2025,0,22,1,Moyen montant / faible activité / ancien
+591,617307,17/08/2025,7,11,2,Élevé montant / moyen activité / récent
+592,543426,22/08/2025,1,6,2,Élevé montant / moyen activité / récent
+593,851499,06/08/2025,6,22,1,Moyen montant / faible activité / ancien
+594,183480,15/08/2025,14,13,3,Faible montant / faible activité / intermédiaire
+595,470168,01/08/2025,17,27,5,"Petits mais actifs (faible montant, très actifs)"
+596,18508,14/08/2025,4,14,3,Faible montant / faible activité / intermédiaire
+597,764391,09/08/2025,18,19,0,Élevé montant / élevé activité / ancien
+598,775304,25/08/2025,6,3,2,Élevé montant / moyen activité / récent
+599,862502,01/08/2025,14,27,0,Élevé montant / élevé activité / ancien
+600,601781,20/08/2025,6,8,2,Élevé montant / moyen activité / récent
+601,608803,03/08/2025,7,25,1,Moyen montant / faible activité / ancien
+602,153498,07/08/2025,5,21,3,Faible montant / faible activité / intermédiaire
+603,347304,12/08/2025,21,16,5,"Petits mais actifs (faible montant, très actifs)"
+604,169335,24/08/2025,0,4,3,Faible montant / faible activité / intermédiaire
+605,528862,14/08/2025,20,14,4,"Fidèles réguliers (activité élevée, montant moyen)"
+606,415242,21/08/2025,11,7,3,Faible montant / faible activité / intermédiaire
+607,867807,12/08/2025,20,16,0,Élevé montant / élevé activité / ancien
+608,163697,23/08/2025,13,5,3,Faible montant / faible activité / intermédiaire
+609,671660,13/08/2025,5,15,1,Moyen montant / faible activité / ancien
+610,832849,21/08/2025,8,7,2,Élevé montant / moyen activité / récent
+611,782412,04/08/2025,0,24,1,Moyen montant / faible activité / ancien
+612,903763,25/08/2025,0,3,2,Élevé montant / moyen activité / récent
+613,367765,16/08/2025,3,12,3,Faible montant / faible activité / intermédiaire
+614,295970,24/08/2025,7,4,3,Faible montant / faible activité / intermédiaire
+615,819644,03/08/2025,22,25,0,Élevé montant / élevé activité / ancien
+616,893528,11/08/2025,10,17,2,Élevé montant / moyen activité / récent
+617,575417,21/08/2025,15,7,4,"Fidèles réguliers (activité élevée, montant moyen)"
+618,205182,12/08/2025,13,16,5,"Petits mais actifs (faible montant, très actifs)"
+619,999291,11/08/2025,13,17,0,Élevé montant / élevé activité / ancien
+620,345674,13/08/2025,24,15,4,"Fidèles réguliers (activité élevée, montant moyen)"
+621,74888,16/08/2025,0,12,3,Faible montant / faible activité / intermédiaire
+622,181714,09/08/2025,1,19,3,Faible montant / faible activité / intermédiaire
+623,738479,03/08/2025,17,25,0,Élevé montant / élevé activité / ancien
+624,868702,23/08/2025,20,5,2,Élevé montant / moyen activité / récent
+625,477095,02/08/2025,19,26,5,"Petits mais actifs (faible montant, très actifs)"
+626,164589,24/08/2025,16,4,4,"Fidèles réguliers (activité élevée, montant moyen)"
+627,598758,24/08/2025,20,4,4,"Fidèles réguliers (activité élevée, montant moyen)"
+628,277975,08/08/2025,19,20,5,"Petits mais actifs (faible montant, très actifs)"
+629,442693,17/08/2025,13,11,4,"Fidèles réguliers (activité élevée, montant moyen)"
+630,394037,05/08/2025,6,23,1,Moyen montant / faible activité / ancien
+631,755646,08/08/2025,16,20,0,Élevé montant / élevé activité / ancien
+632,895800,17/08/2025,16,11,2,Élevé montant / moyen activité / récent
+633,722362,03/08/2025,19,25,0,Élevé montant / élevé activité / ancien
+634,401215,12/08/2025,23,16,4,"Fidèles réguliers (activité élevée, montant moyen)"
+635,735152,24/08/2025,3,4,2,Élevé montant / moyen activité / récent
+636,139104,10/08/2025,7,18,3,Faible montant / faible activité / intermédiaire
+637,306147,11/08/2025,1,17,3,Faible montant / faible activité / intermédiaire
+638,602836,23/08/2025,12,5,2,Élevé montant / moyen activité / récent
+639,580515,03/08/2025,0,25,1,Moyen montant / faible activité / ancien
+640,446789,07/08/2025,18,21,5,"Petits mais actifs (faible montant, très actifs)"
+641,718784,21/08/2025,15,7,2,Élevé montant / moyen activité / récent
+642,694872,05/08/2025,24,23,0,Élevé montant / élevé activité / ancien
+643,640730,16/08/2025,13,12,2,Élevé montant / moyen activité / récent
+644,809569,24/08/2025,2,4,2,Élevé montant / moyen activité / récent
+645,63494,06/08/2025,23,22,5,"Petits mais actifs (faible montant, très actifs)"
+646,943726,11/08/2025,19,17,0,Élevé montant / élevé activité / ancien
+647,837983,14/08/2025,12,14,2,Élevé montant / moyen activité / récent
+648,540912,09/08/2025,21,19,0,Élevé montant / élevé activité / ancien
+649,254777,24/08/2025,9,4,3,Faible montant / faible activité / intermédiaire
+650,903637,14/08/2025,6,14,2,Élevé montant / moyen activité / récent
+651,182588,12/08/2025,9,16,3,Faible montant / faible activité / intermédiaire
+652,913920,21/08/2025,18,7,2,Élevé montant / moyen activité / récent
+653,854243,15/08/2025,18,13,0,Élevé montant / élevé activité / ancien
+654,373619,20/08/2025,11,8,3,Faible montant / faible activité / intermédiaire
+655,383270,04/08/2025,7,24,1,Moyen montant / faible activité / ancien
+656,876359,12/08/2025,24,16,0,Élevé montant / élevé activité / ancien
+657,285991,20/08/2025,23,8,4,"Fidèles réguliers (activité élevée, montant moyen)"
+658,977923,06/08/2025,12,22,0,Élevé montant / élevé activité / ancien
+659,879023,22/08/2025,16,6,2,Élevé montant / moyen activité / récent
+660,681912,20/08/2025,13,8,2,Élevé montant / moyen activité / récent
+661,780865,11/08/2025,23,17,0,Élevé montant / élevé activité / ancien
+662,413497,08/08/2025,1,20,1,Moyen montant / faible activité / ancien
+663,209387,17/08/2025,25,11,4,"Fidèles réguliers (activité élevée, montant moyen)"
+664,900319,13/08/2025,9,15,2,Élevé montant / moyen activité / récent
+665,782524,02/08/2025,1,26,1,Moyen montant / faible activité / ancien
+666,392522,17/08/2025,11,11,3,Faible montant / faible activité / intermédiaire
+667,80737,04/08/2025,2,24,3,Faible montant / faible activité / intermédiaire
+668,645485,17/08/2025,7,11,2,Élevé montant / moyen activité / récent
+669,411001,08/08/2025,1,20,1,Moyen montant / faible activité / ancien
+670,983622,04/08/2025,11,24,0,Élevé montant / élevé activité / ancien
+671,249603,10/08/2025,23,18,5,"Petits mais actifs (faible montant, très actifs)"
+672,956072,13/08/2025,24,15,0,Élevé montant / élevé activité / ancien
+673,263148,10/08/2025,11,18,5,"Petits mais actifs (faible montant, très actifs)"
+674,787891,18/08/2025,6,10,2,Élevé montant / moyen activité / récent
+675,872448,04/08/2025,20,24,0,Élevé montant / élevé activité / ancien
+676,418926,24/08/2025,0,4,3,Faible montant / faible activité / intermédiaire
+677,208143,23/08/2025,20,5,4,"Fidèles réguliers (activité élevée, montant moyen)"
+678,448790,21/08/2025,10,7,3,Faible montant / faible activité / intermédiaire
+679,184076,18/08/2025,3,10,3,Faible montant / faible activité / intermédiaire
+680,989503,05/08/2025,5,23,1,Moyen montant / faible activité / ancien
+681,157215,19/08/2025,19,9,4,"Fidèles réguliers (activité élevée, montant moyen)"
+682,409645,06/08/2025,5,22,1,Moyen montant / faible activité / ancien
+683,652039,06/08/2025,6,22,1,Moyen montant / faible activité / ancien
+684,322660,13/08/2025,17,15,5,"Petits mais actifs (faible montant, très actifs)"
+685,463207,18/08/2025,1,10,3,Faible montant / faible activité / intermédiaire
+686,974018,19/08/2025,1,9,2,Élevé montant / moyen activité / récent
+687,532013,18/08/2025,6,10,2,Élevé montant / moyen activité / récent
+688,66051,10/08/2025,10,18,5,"Petits mais actifs (faible montant, très actifs)"
+689,954395,17/08/2025,21,11,0,Élevé montant / élevé activité / ancien
+690,960609,25/08/2025,7,3,2,Élevé montant / moyen activité / récent
+691,458531,12/08/2025,12,16,5,"Petits mais actifs (faible montant, très actifs)"
+692,328676,16/08/2025,25,12,4,"Fidèles réguliers (activité élevée, montant moyen)"
+693,732076,25/08/2025,22,3,4,"Fidèles réguliers (activité élevée, montant moyen)"
+694,403026,13/08/2025,1,15,3,Faible montant / faible activité / intermédiaire
+695,910814,25/08/2025,15,3,2,Élevé montant / moyen activité / récent
+696,622376,23/08/2025,17,5,4,"Fidèles réguliers (activité élevée, montant moyen)"
+697,29310,15/08/2025,8,13,3,Faible montant / faible activité / intermédiaire
+698,432553,03/08/2025,0,25,1,Moyen montant / faible activité / ancien
+699,985260,11/08/2025,0,17,1,Moyen montant / faible activité / ancien
+700,76611,17/08/2025,12,11,3,Faible montant / faible activité / intermédiaire
+701,444666,23/08/2025,2,5,3,Faible montant / faible activité / intermédiaire
+702,660436,16/08/2025,14,12,2,Élevé montant / moyen activité / récent
+703,156645,21/08/2025,7,7,3,Faible montant / faible activité / intermédiaire
+704,466926,09/08/2025,6,19,1,Moyen montant / faible activité / ancien
+705,591688,18/08/2025,1,10,2,Élevé montant / moyen activité / récent
+706,70611,23/08/2025,5,5,3,Faible montant / faible activité / intermédiaire
+707,825894,24/08/2025,6,4,2,Élevé montant / moyen activité / récent
+708,347724,12/08/2025,7,16,3,Faible montant / faible activité / intermédiaire
+709,211220,23/08/2025,24,5,4,"Fidèles réguliers (activité élevée, montant moyen)"
+710,858842,13/08/2025,0,15,1,Moyen montant / faible activité / ancien
+711,868456,13/08/2025,15,15,0,Élevé montant / élevé activité / ancien
+712,122917,07/08/2025,2,21,3,Faible montant / faible activité / intermédiaire
+713,74426,25/08/2025,23,3,4,"Fidèles réguliers (activité élevée, montant moyen)"
+714,242085,07/08/2025,22,21,5,"Petits mais actifs (faible montant, très actifs)"
+715,429916,22/08/2025,19,6,4,"Fidèles réguliers (activité élevée, montant moyen)"
+716,514095,13/08/2025,9,15,1,Moyen montant / faible activité / ancien
+717,10242,11/08/2025,23,17,5,"Petits mais actifs (faible montant, très actifs)"
+718,849554,08/08/2025,13,20,0,Élevé montant / élevé activité / ancien
+719,709440,17/08/2025,19,11,4,"Fidèles réguliers (activité élevée, montant moyen)"
+720,445933,20/08/2025,2,8,3,Faible montant / faible activité / intermédiaire
+721,622481,01/08/2025,22,27,0,Élevé montant / élevé activité / ancien
+722,861488,18/08/2025,9,10,2,Élevé montant / moyen activité / récent
+723,289001,12/08/2025,16,16,5,"Petits mais actifs (faible montant, très actifs)"
+724,342465,12/08/2025,24,16,4,"Fidèles réguliers (activité élevée, montant moyen)"
+725,591133,07/08/2025,15,21,0,Élevé montant / élevé activité / ancien
+726,165683,22/08/2025,11,6,3,Faible montant / faible activité / intermédiaire
+727,866894,06/08/2025,23,22,0,Élevé montant / élevé activité / ancien
+728,961978,15/08/2025,25,13,0,Élevé montant / élevé activité / ancien
+729,864853,25/08/2025,3,3,2,Élevé montant / moyen activité / récent
+730,489297,25/08/2025,2,3,2,Élevé montant / moyen activité / récent
+731,167107,13/08/2025,23,15,4,"Fidèles réguliers (activité élevée, montant moyen)"
+732,329405,07/08/2025,25,21,5,"Petits mais actifs (faible montant, très actifs)"
+733,320918,03/08/2025,16,25,5,"Petits mais actifs (faible montant, très actifs)"
+734,609123,02/08/2025,15,26,0,Élevé montant / élevé activité / ancien
+735,888964,14/08/2025,14,14,0,Élevé montant / élevé activité / ancien
+736,142334,04/08/2025,19,24,5,"Petits mais actifs (faible montant, très actifs)"
+737,793973,03/08/2025,24,25,0,Élevé montant / élevé activité / ancien
+738,532932,18/08/2025,11,10,2,Élevé montant / moyen activité / récent
+739,711164,20/08/2025,18,8,4,"Fidèles réguliers (activité élevée, montant moyen)"
+740,45303,01/08/2025,21,27,5,"Petits mais actifs (faible montant, très actifs)"
+741,925965,09/08/2025,4,19,1,Moyen montant / faible activité / ancien
+742,603529,07/08/2025,4,21,1,Moyen montant / faible activité / ancien
+743,752050,13/08/2025,4,15,1,Moyen montant / faible activité / ancien
+744,749964,15/08/2025,9,13,2,Élevé montant / moyen activité / récent
+745,33655,01/08/2025,12,27,5,"Petits mais actifs (faible montant, très actifs)"
+746,168289,11/08/2025,2,17,3,Faible montant / faible activité / intermédiaire
+747,997840,19/08/2025,21,9,0,Élevé montant / élevé activité / ancien
+748,627947,05/08/2025,12,23,1,Moyen montant / faible activité / ancien
+749,201895,25/08/2025,18,3,4,"Fidèles réguliers (activité élevée, montant moyen)"
+750,991956,20/08/2025,9,8,2,Élevé montant / moyen activité / récent
+751,22497,05/08/2025,5,23,5,"Petits mais actifs (faible montant, très actifs)"
+752,43759,16/08/2025,11,12,3,Faible montant / faible activité / intermédiaire
+753,545904,07/08/2025,21,21,0,Élevé montant / élevé activité / ancien
+754,660544,20/08/2025,4,8,2,Élevé montant / moyen activité / récent
+755,302688,23/08/2025,3,5,3,Faible montant / faible activité / intermédiaire
+756,311549,17/08/2025,18,11,4,"Fidèles réguliers (activité élevée, montant moyen)"
+757,747380,02/08/2025,11,26,1,Moyen montant / faible activité / ancien
+758,589350,25/08/2025,18,3,4,"Fidèles réguliers (activité élevée, montant moyen)"
+759,208241,03/08/2025,4,25,1,Moyen montant / faible activité / ancien
+760,251153,18/08/2025,0,10,3,Faible montant / faible activité / intermédiaire
+761,912100,16/08/2025,19,12,0,Élevé montant / élevé activité / ancien
+762,228654,02/08/2025,15,26,5,"Petits mais actifs (faible montant, très actifs)"
+763,750207,22/08/2025,0,6,2,Élevé montant / moyen activité / récent
+764,501088,14/08/2025,23,14,4,"Fidèles réguliers (activité élevée, montant moyen)"
+765,552484,19/08/2025,14,9,4,"Fidèles réguliers (activité élevée, montant moyen)"
+766,193513,19/08/2025,12,9,3,Faible montant / faible activité / intermédiaire
+767,903467,05/08/2025,12,23,0,Élevé montant / élevé activité / ancien
+768,63864,10/08/2025,25,18,5,"Petits mais actifs (faible montant, très actifs)"
+769,26887,14/08/2025,11,14,3,Faible montant / faible activité / intermédiaire
+770,417025,13/08/2025,18,15,4,"Fidèles réguliers (activité élevée, montant moyen)"
+771,980957,14/08/2025,6,14,2,Élevé montant / moyen activité / récent
+772,478040,06/08/2025,0,22,1,Moyen montant / faible activité / ancien
+773,393323,01/08/2025,6,27,1,Moyen montant / faible activité / ancien
+774,859676,24/08/2025,3,4,2,Élevé montant / moyen activité / récent
+775,666770,20/08/2025,5,8,2,Élevé montant / moyen activité / récent
+776,445251,11/08/2025,5,17,1,Moyen montant / faible activité / ancien
+777,194559,14/08/2025,20,14,4,"Fidèles réguliers (activité élevée, montant moyen)"
+778,669363,08/08/2025,17,20,0,Élevé montant / élevé activité / ancien
+779,774985,06/08/2025,24,22,0,Élevé montant / élevé activité / ancien
+780,699439,09/08/2025,17,19,0,Élevé montant / élevé activité / ancien
+781,944778,07/08/2025,20,21,0,Élevé montant / élevé activité / ancien
+782,501782,06/08/2025,5,22,1,Moyen montant / faible activité / ancien
+783,253471,20/08/2025,9,8,3,Faible montant / faible activité / intermédiaire
+784,857817,16/08/2025,15,12,2,Élevé montant / moyen activité / récent
+785,745398,21/08/2025,15,7,2,Élevé montant / moyen activité / récent
+786,25005,01/08/2025,14,27,5,"Petits mais actifs (faible montant, très actifs)"
+787,309254,01/08/2025,16,27,5,"Petits mais actifs (faible montant, très actifs)"
+788,751791,19/08/2025,23,9,4,"Fidèles réguliers (activité élevée, montant moyen)"
+789,140415,01/08/2025,2,27,1,Moyen montant / faible activité / ancien
+790,169636,18/08/2025,10,10,3,Faible montant / faible activité / intermédiaire
+791,823584,21/08/2025,18,7,2,Élevé montant / moyen activité / récent
+792,247634,13/08/2025,20,15,5,"Petits mais actifs (faible montant, très actifs)"
+793,498397,20/08/2025,12,8,4,"Fidèles réguliers (activité élevée, montant moyen)"
+794,777224,15/08/2025,0,13,2,Élevé montant / moyen activité / récent
+795,795322,21/08/2025,13,7,2,Élevé montant / moyen activité / récent
+796,772515,10/08/2025,7,18,1,Moyen montant / faible activité / ancien
+797,603482,11/08/2025,12,17,1,Moyen montant / faible activité / ancien
+798,176968,05/08/2025,2,23,1,Moyen montant / faible activité / ancien
+799,565380,25/08/2025,15,3,4,"Fidèles réguliers (activité élevée, montant moyen)"
+800,408707,05/08/2025,15,23,5,"Petits mais actifs (faible montant, très actifs)"
+801,95217,22/08/2025,8,6,3,Faible montant / faible activité / intermédiaire
+802,662686,10/08/2025,17,18,0,Élevé montant / élevé activité / ancien
+803,328819,08/08/2025,16,20,5,"Petits mais actifs (faible montant, très actifs)"
+804,644978,15/08/2025,24,13,4,"Fidèles réguliers (activité élevée, montant moyen)"
+805,170642,11/08/2025,4,17,3,Faible montant / faible activité / intermédiaire
+806,401619,09/08/2025,16,19,5,"Petits mais actifs (faible montant, très actifs)"
+807,338693,11/08/2025,14,17,5,"Petits mais actifs (faible montant, très actifs)"
+808,378896,15/08/2025,3,13,3,Faible montant / faible activité / intermédiaire
+809,638742,15/08/2025,5,13,2,Élevé montant / moyen activité / récent
+810,92394,23/08/2025,3,5,3,Faible montant / faible activité / intermédiaire
+811,213199,13/08/2025,15,15,5,"Petits mais actifs (faible montant, très actifs)"
+812,310610,22/08/2025,10,6,3,Faible montant / faible activité / intermédiaire
+813,274762,21/08/2025,13,7,4,"Fidèles réguliers (activité élevée, montant moyen)"
+814,854573,17/08/2025,19,11,0,Élevé montant / élevé activité / ancien
+815,91392,14/08/2025,12,14,3,Faible montant / faible activité / intermédiaire
+816,260578,22/08/2025,0,6,3,Faible montant / faible activité / intermédiaire
+817,299615,19/08/2025,14,9,4,"Fidèles réguliers (activité élevée, montant moyen)"
+818,952669,20/08/2025,0,8,2,Élevé montant / moyen activité / récent
+819,79465,11/08/2025,7,17,3,Faible montant / faible activité / intermédiaire
+820,796414,24/08/2025,5,4,2,Élevé montant / moyen activité / récent
+821,115909,04/08/2025,16,24,5,"Petits mais actifs (faible montant, très actifs)"
+822,626093,13/08/2025,16,15,0,Élevé montant / élevé activité / ancien
+823,282210,11/08/2025,5,17,3,Faible montant / faible activité / intermédiaire
+824,420048,24/08/2025,17,4,4,"Fidèles réguliers (activité élevée, montant moyen)"
+825,276552,15/08/2025,17,13,4,"Fidèles réguliers (activité élevée, montant moyen)"
+826,635500,19/08/2025,24,9,4,"Fidèles réguliers (activité élevée, montant moyen)"
+827,589907,17/08/2025,24,11,4,"Fidèles réguliers (activité élevée, montant moyen)"
+828,864578,15/08/2025,4,13,2,Élevé montant / moyen activité / récent
+829,609108,16/08/2025,14,12,2,Élevé montant / moyen activité / récent
+830,612007,08/08/2025,12,20,1,Moyen montant / faible activité / ancien
+831,726102,20/08/2025,5,8,2,Élevé montant / moyen activité / récent
+832,934265,23/08/2025,19,5,2,Élevé montant / moyen activité / récent
+833,954126,14/08/2025,20,14,0,Élevé montant / élevé activité / ancien
+834,94259,09/08/2025,24,19,5,"Petits mais actifs (faible montant, très actifs)"
+835,565830,24/08/2025,3,4,2,Élevé montant / moyen activité / récent
+836,434113,07/08/2025,2,21,1,Moyen montant / faible activité / ancien
+837,710911,09/08/2025,1,19,1,Moyen montant / faible activité / ancien
+838,10588,07/08/2025,1,21,3,Faible montant / faible activité / intermédiaire
+839,436713,13/08/2025,21,15,4,"Fidèles réguliers (activité élevée, montant moyen)"
+840,932670,14/08/2025,22,14,0,Élevé montant / élevé activité / ancien
+841,855907,16/08/2025,3,12,2,Élevé montant / moyen activité / récent
+842,40772,17/08/2025,2,11,3,Faible montant / faible activité / intermédiaire
+843,300338,14/08/2025,23,14,4,"Fidèles réguliers (activité élevée, montant moyen)"
+844,117790,15/08/2025,3,13,3,Faible montant / faible activité / intermédiaire
+845,223381,03/08/2025,21,25,5,"Petits mais actifs (faible montant, très actifs)"
+846,172371,13/08/2025,6,15,3,Faible montant / faible activité / intermédiaire
+847,122828,01/08/2025,16,27,5,"Petits mais actifs (faible montant, très actifs)"
+848,664469,24/08/2025,24,4,4,"Fidèles réguliers (activité élevée, montant moyen)"
+849,784775,24/08/2025,12,4,2,Élevé montant / moyen activité / récent
+850,594090,04/08/2025,1,24,1,Moyen montant / faible activité / ancien
+851,565376,07/08/2025,3,21,1,Moyen montant / faible activité / ancien
+852,464995,05/08/2025,2,23,1,Moyen montant / faible activité / ancien
+853,21191,11/08/2025,3,17,3,Faible montant / faible activité / intermédiaire
+854,695773,24/08/2025,20,4,4,"Fidèles réguliers (activité élevée, montant moyen)"
+855,886217,21/08/2025,18,7,2,Élevé montant / moyen activité / récent
+856,351631,10/08/2025,15,18,5,"Petits mais actifs (faible montant, très actifs)"
+857,999909,10/08/2025,23,18,0,Élevé montant / élevé activité / ancien
+858,562933,17/08/2025,8,11,2,Élevé montant / moyen activité / récent
+859,158207,17/08/2025,24,11,4,"Fidèles réguliers (activité élevée, montant moyen)"
+860,214789,21/08/2025,21,7,4,"Fidèles réguliers (activité élevée, montant moyen)"
+861,545445,17/08/2025,11,11,2,Élevé montant / moyen activité / récent
+862,358555,25/08/2025,7,3,3,Faible montant / faible activité / intermédiaire
+863,753374,14/08/2025,10,14,2,Élevé montant / moyen activité / récent
+864,278274,02/08/2025,5,26,1,Moyen montant / faible activité / ancien
+865,44740,12/08/2025,13,16,5,"Petits mais actifs (faible montant, très actifs)"
+866,93034,05/08/2025,21,23,5,"Petits mais actifs (faible montant, très actifs)"
+867,518365,06/08/2025,2,22,1,Moyen montant / faible activité / ancien
+868,809563,17/08/2025,1,11,2,Élevé montant / moyen activité / récent
+869,585414,11/08/2025,22,17,0,Élevé montant / élevé activité / ancien
+870,582646,12/08/2025,20,16,0,Élevé montant / élevé activité / ancien
+871,515508,22/08/2025,6,6,2,Élevé montant / moyen activité / récent
+872,297399,20/08/2025,6,8,3,Faible montant / faible activité / intermédiaire
+873,287357,19/08/2025,21,9,4,"Fidèles réguliers (activité élevée, montant moyen)"
+874,512091,13/08/2025,19,15,4,"Fidèles réguliers (activité élevée, montant moyen)"
+875,697834,21/08/2025,4,7,2,Élevé montant / moyen activité / récent
+876,782071,23/08/2025,12,5,2,Élevé montant / moyen activité / récent
+877,460153,23/08/2025,21,5,4,"Fidèles réguliers (activité élevée, montant moyen)"
+878,330759,15/08/2025,17,13,4,"Fidèles réguliers (activité élevée, montant moyen)"
+879,806383,07/08/2025,4,21,1,Moyen montant / faible activité / ancien
+880,689806,16/08/2025,13,12,2,Élevé montant / moyen activité / récent
+881,11796,12/08/2025,6,16,3,Faible montant / faible activité / intermédiaire
+882,128303,07/08/2025,19,21,5,"Petits mais actifs (faible montant, très actifs)"
+883,291491,06/08/2025,14,22,5,"Petits mais actifs (faible montant, très actifs)"
+884,884633,20/08/2025,4,8,2,Élevé montant / moyen activité / récent
+885,727900,04/08/2025,21,24,0,Élevé montant / élevé activité / ancien
+886,580790,01/08/2025,5,27,1,Moyen montant / faible activité / ancien
+887,561623,15/08/2025,15,13,4,"Fidèles réguliers (activité élevée, montant moyen)"
+888,593049,16/08/2025,5,12,2,Élevé montant / moyen activité / récent
+889,881163,10/08/2025,2,18,1,Moyen montant / faible activité / ancien
+890,689979,04/08/2025,1,24,1,Moyen montant / faible activité / ancien
+891,83889,11/08/2025,17,17,5,"Petits mais actifs (faible montant, très actifs)"
+892,393651,07/08/2025,23,21,5,"Petits mais actifs (faible montant, très actifs)"
+893,115259,10/08/2025,4,18,3,Faible montant / faible activité / intermédiaire
+894,268789,01/08/2025,12,27,5,"Petits mais actifs (faible montant, très actifs)"
+895,877074,05/08/2025,0,23,1,Moyen montant / faible activité / ancien
+896,728658,03/08/2025,3,25,1,Moyen montant / faible activité / ancien
+897,405465,20/08/2025,5,8,3,Faible montant / faible activité / intermédiaire
+898,647354,06/08/2025,5,22,1,Moyen montant / faible activité / ancien
+899,833615,07/08/2025,19,21,0,Élevé montant / élevé activité / ancien
+900,247469,10/08/2025,10,18,5,"Petits mais actifs (faible montant, très actifs)"
+901,133066,17/08/2025,8,11,3,Faible montant / faible activité / intermédiaire
+902,407042,08/08/2025,11,20,5,"Petits mais actifs (faible montant, très actifs)"
+903,945976,15/08/2025,21,13,0,Élevé montant / élevé activité / ancien
+904,979142,17/08/2025,0,11,2,Élevé montant / moyen activité / récent
+905,486485,23/08/2025,22,5,4,"Fidèles réguliers (activité élevée, montant moyen)"
+906,592096,08/08/2025,25,20,0,Élevé montant / élevé activité / ancien
+907,459840,14/08/2025,20,14,4,"Fidèles réguliers (activité élevée, montant moyen)"
+908,584767,20/08/2025,24,8,4,"Fidèles réguliers (activité élevée, montant moyen)"
+909,875473,05/08/2025,12,23,0,Élevé montant / élevé activité / ancien
+910,608184,04/08/2025,4,24,1,Moyen montant / faible activité / ancien
+911,692092,22/08/2025,20,6,4,"Fidèles réguliers (activité élevée, montant moyen)"
+912,209513,13/08/2025,4,15,3,Faible montant / faible activité / intermédiaire
+913,692986,17/08/2025,2,11,2,Élevé montant / moyen activité / récent
+914,83993,23/08/2025,25,5,4,"Fidèles réguliers (activité élevée, montant moyen)"
+915,397484,19/08/2025,11,9,3,Faible montant / faible activité / intermédiaire
+916,988731,25/08/2025,19,3,2,Élevé montant / moyen activité / récent
+917,457348,17/08/2025,23,11,4,"Fidèles réguliers (activité élevée, montant moyen)"
+918,706463,21/08/2025,4,7,2,Élevé montant / moyen activité / récent
+919,839897,25/08/2025,10,3,2,Élevé montant / moyen activité / récent
+920,908331,13/08/2025,22,15,0,Élevé montant / élevé activité / ancien
+921,825233,02/08/2025,18,26,0,Élevé montant / élevé activité / ancien
+922,415471,12/08/2025,13,16,5,"Petits mais actifs (faible montant, très actifs)"
+923,274767,25/08/2025,20,3,4,"Fidèles réguliers (activité élevée, montant moyen)"
+924,503746,02/08/2025,14,26,5,"Petits mais actifs (faible montant, très actifs)"
+925,238552,04/08/2025,16,24,5,"Petits mais actifs (faible montant, très actifs)"
+926,765249,24/08/2025,16,4,2,Élevé montant / moyen activité / récent
+927,543263,12/08/2025,3,16,1,Moyen montant / faible activité / ancien
+928,70469,21/08/2025,22,7,4,"Fidèles réguliers (activité élevée, montant moyen)"
+929,49156,18/08/2025,9,10,3,Faible montant / faible activité / intermédiaire
+930,262551,03/08/2025,7,25,5,"Petits mais actifs (faible montant, très actifs)"
+931,658429,04/08/2025,23,24,0,Élevé montant / élevé activité / ancien
+932,699322,04/08/2025,19,24,0,Élevé montant / élevé activité / ancien
+933,319484,08/08/2025,18,20,5,"Petits mais actifs (faible montant, très actifs)"
+934,393578,10/08/2025,17,18,5,"Petits mais actifs (faible montant, très actifs)"
+935,324129,19/08/2025,25,9,4,"Fidèles réguliers (activité élevée, montant moyen)"
+936,733676,02/08/2025,23,26,0,Élevé montant / élevé activité / ancien
+937,458240,09/08/2025,2,19,1,Moyen montant / faible activité / ancien
+938,494098,05/08/2025,25,23,0,Élevé montant / élevé activité / ancien
+939,989646,07/08/2025,25,21,0,Élevé montant / élevé activité / ancien
+940,714259,12/08/2025,8,16,1,Moyen montant / faible activité / ancien
+941,294018,14/08/2025,20,14,4,"Fidèles réguliers (activité élevée, montant moyen)"
+942,336061,18/08/2025,9,10,3,Faible montant / faible activité / intermédiaire
+943,700363,20/08/2025,19,8,4,"Fidèles réguliers (activité élevée, montant moyen)"
+944,321932,03/08/2025,24,25,5,"Petits mais actifs (faible montant, très actifs)"
+945,913919,08/08/2025,8,20,1,Moyen montant / faible activité / ancien
+946,355843,07/08/2025,17,21,5,"Petits mais actifs (faible montant, très actifs)"
+947,781546,05/08/2025,14,23,0,Élevé montant / élevé activité / ancien
+948,376168,05/08/2025,7,23,1,Moyen montant / faible activité / ancien
+949,660507,24/08/2025,19,4,4,"Fidèles réguliers (activité élevée, montant moyen)"
+950,346698,20/08/2025,25,8,4,"Fidèles réguliers (activité élevée, montant moyen)"
+951,571260,24/08/2025,25,4,4,"Fidèles réguliers (activité élevée, montant moyen)"
+952,688699,17/08/2025,13,11,2,Élevé montant / moyen activité / récent
+953,986564,08/08/2025,7,20,1,Moyen montant / faible activité / ancien
+954,906134,08/08/2025,16,20,0,Élevé montant / élevé activité / ancien
+955,594158,02/08/2025,25,26,0,Élevé montant / élevé activité / ancien
+956,816913,17/08/2025,0,11,2,Élevé montant / moyen activité / récent
+957,388163,24/08/2025,0,4,3,Faible montant / faible activité / intermédiaire
+958,776439,11/08/2025,22,17,0,Élevé montant / élevé activité / ancien
+959,472751,13/08/2025,8,15,3,Faible montant / faible activité / intermédiaire
+960,554848,25/08/2025,4,3,2,Élevé montant / moyen activité / récent
+961,201454,13/08/2025,11,15,3,Faible montant / faible activité / intermédiaire
+962,750066,06/08/2025,9,22,1,Moyen montant / faible activité / ancien
+963,132021,08/08/2025,3,20,3,Faible montant / faible activité / intermédiaire
+964,353585,18/08/2025,13,10,4,"Fidèles réguliers (activité élevée, montant moyen)"
+965,783710,12/08/2025,15,16,0,Élevé montant / élevé activité / ancien
+966,858401,21/08/2025,8,7,2,Élevé montant / moyen activité / récent
+967,472775,06/08/2025,6,22,1,Moyen montant / faible activité / ancien
+968,270030,16/08/2025,3,12,3,Faible montant / faible activité / intermédiaire
+969,443982,08/08/2025,3,20,1,Moyen montant / faible activité / ancien
+970,429938,23/08/2025,9,5,3,Faible montant / faible activité / intermédiaire
+971,333239,12/08/2025,14,16,5,"Petits mais actifs (faible montant, très actifs)"
+972,620537,06/08/2025,17,22,0,Élevé montant / élevé activité / ancien
+973,383139,18/08/2025,3,10,3,Faible montant / faible activité / intermédiaire
+974,443401,02/08/2025,2,26,1,Moyen montant / faible activité / ancien
+975,348962,12/08/2025,2,16,3,Faible montant / faible activité / intermédiaire
+976,909399,25/08/2025,23,3,4,"Fidèles réguliers (activité élevée, montant moyen)"
+977,934144,22/08/2025,11,6,2,Élevé montant / moyen activité / récent
+978,465278,22/08/2025,5,6,3,Faible montant / faible activité / intermédiaire
+979,860483,19/08/2025,19,9,2,Élevé montant / moyen activité / récent
+980,552696,25/08/2025,21,3,4,"Fidèles réguliers (activité élevée, montant moyen)"
+981,243782,23/08/2025,23,5,4,"Fidèles réguliers (activité élevée, montant moyen)"
+982,956550,09/08/2025,5,19,1,Moyen montant / faible activité / ancien
+983,41561,22/08/2025,23,6,4,"Fidèles réguliers (activité élevée, montant moyen)"
+984,207371,14/08/2025,2,14,3,Faible montant / faible activité / intermédiaire
+985,911623,23/08/2025,11,5,2,Élevé montant / moyen activité / récent
+986,369923,09/08/2025,13,19,5,"Petits mais actifs (faible montant, très actifs)"
+987,715853,24/08/2025,23,4,4,"Fidèles réguliers (activité élevée, montant moyen)"
+988,80413,03/08/2025,5,25,5,"Petits mais actifs (faible montant, très actifs)"
+989,229488,20/08/2025,6,8,3,Faible montant / faible activité / intermédiaire
+990,361975,10/08/2025,15,18,5,"Petits mais actifs (faible montant, très actifs)"
+991,438720,02/08/2025,11,26,5,"Petits mais actifs (faible montant, très actifs)"
+992,97436,04/08/2025,7,24,5,"Petits mais actifs (faible montant, très actifs)"
+993,400787,13/08/2025,15,15,5,"Petits mais actifs (faible montant, très actifs)"
+994,878234,08/08/2025,13,20,0,Élevé montant / élevé activité / ancien
+995,874170,08/08/2025,5,20,1,Moyen montant / faible activité / ancien
+996,710636,11/08/2025,16,17,0,Élevé montant / élevé activité / ancien
+997,873962,02/08/2025,12,26,0,Élevé montant / élevé activité / ancien
+998,275274,01/08/2025,3,27,1,Moyen montant / faible activité / ancien
+999,767928,14/08/2025,23,14,0,Élevé montant / élevé activité / ancien
+1000,338375,25/08/2025,24,3,4,"Fidèles réguliers (activité élevée, montant moyen)"
